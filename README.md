@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tazim5032" target="blank"><img src="https://img.shields.io/twitter/follow/tazim5032?logo=twitter&style=for-the-badge" alt="tazim5032" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱  **web developer**
 
 - 📫 How to reach me **mfitttazim22@gmail.com**
 
