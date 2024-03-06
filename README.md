@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Fakhrul Islam</h1>
 <h3 align="center">Competitive Programmer and Web Developer</h3>
+<h4 align="center">I have graduated From Rajshahi University of Engineering & Technology. My strength is competitive programming. In My Academic Journey I have participated multiple onsite and online programming contests. Beside this I have solved more than 2000 problems in different online platforms. After graduation I am mainly focusing on developing side along with my competitive programming. I have learned HTML, CSS, Tailwind CSS and JavaScript. Currently I am learning React.js. After that my focus is on Backend Developing side.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazim5032&label=Profile%20views&color=0e75b6&style=flat" alt="tazim5032" /> </p>
 
