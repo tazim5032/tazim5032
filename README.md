@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋 I'm Mohammad Fakhrul Islam</h1>
 <h3 align="center">Competitive Programmer and Web Developer</h3>
-<h4 align="center">I have graduated From Rajshahi University of Engineering & Technology. My strength is competitive programming. In My Academic Journey I have participated multiple onsite and online programming contests. Beside this I have solved more than 2000 problems in different online platforms. After graduation I am mainly focusing on developing side along with my competitive programming. I have learned HTML, CSS, Tailwind CSS, DOM manipulation, API and JavaScript. Currently I am learning React.js. After that my focus is on Backend Developing side.</h4>
+<h4 align="center">Rajshahi University of Engineering & Technology alumnus with a passion for competitive programming and a strong foundation in frontend development. With extensive experience in HTML, CSS, Tailwind CSS, DOM manipulation, APIs, and JavaScript, I've honed my skills through participation in numerous onsite and online programming contests, solving over 2000 problems across various platforms.
+
+Transitioning into a full-fledged frontend developer, I've mastered React.js and now specialize in crafting intuitive user interfaces and engaging web experiences. Expanding my expertise, I'm currently delving into backend development, exploring technologies like Node.js, MongoDB, and Express.js.
+
+With a solid background in both frontend and competitive programming, I bring a unique blend of creativity, problem-solving abilities, and technical proficiency to every project. Excited to embark on new challenges and contribute to innovative solutions in the dynamic world of web development.</h4>
 
 <br>
 <br>
