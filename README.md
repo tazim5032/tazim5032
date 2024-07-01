@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋 I'm Mohammad Fakhrul Islam</h1>
 <h3 align="center">Competitive Programmer and MERN Stack Developer</h3>
-<h4 align="center">Rajshahi University of Engineering & Technology alumnus with a passion for competitive programming and a strong foundation in frontend development. With extensive experience in HTML, CSS, Tailwind CSS, DOM manipulation, APIs, and JavaScript, I've honed my skills through participation in numerous onsite and online programming contests, solving over 2000 problems across various platforms.
-
-Transitioning into a full-fledged frontend developer, I've mastered React.js and now specialize in crafting intuitive user interfaces and engaging web experiences. Expanding my expertise, I'm currently delving into backend development, exploring technologies like Node.js, MongoDB, and Express.js.
-
-With a solid background in both frontend and competitive programming, I bring a unique blend of creativity, problem-solving abilities, and technical proficiency to every project. Excited to embark on new challenges and contribute to innovative solutions in the dynamic world of web development.</h4>
+<h4 align="center">Dynamic software developer specializing in the MERN
+stack, adept at creating responsive and user-friendly
+websites. Passionate about problem solving, continuous
+learning, and leveraging the latest JavaScript frameworks
+to deliver innovative solutions. Committed to producing
+high-quality code and collaborating effectively within
+teams to achieve project objectives.</h4>
 
 <br>
 <br>
