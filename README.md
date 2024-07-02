@@ -60,5 +60,8 @@ I am Mohammad Fakhrul Islam, a competitive programmer and a dedicated MERN Stack
 
 <h3 align="left">Recent Activity:</h3>
 <p align="left">
-<a href="https://github.com/tazim5032"><img src="https://activity-graph.herokuapp.com/graph?username=tazim5032&theme=react-dark" alt="GitHub Activity Graph"></a>
+  <a href="https://github.com/tazim5032">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tazim5032&theme=react-dark" alt="GitHub Activity Graph">
+  </a>
 </p>
+
