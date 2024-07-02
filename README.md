@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Fakhrul Islam</h1>
 <h3 align="center">Competitive Programmer and MERN Stack Developer</h3>
-<h4 align="center">Dynamic software developer specializing in the MERN stack, adept at creating responsive and user-friendly websites. Passionate about problem solving, continuous learning, and leveraging the latest JavaScript frameworks to deliver innovative solutions. Committed to producing high-quality code and collaborating effectively within teams to achieve project objectives.</h4>
+<h4 align="justify">Dynamic software developer specializing in the MERN stack, adept at creating responsive and user-friendly websites. Passionate about problem solving, continuous learning, and leveraging the latest JavaScript frameworks to deliver innovative solutions. Committed to producing high-quality code and collaborating effectively within teams to achieve project objectives.</h4>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48804254/213803507-0b3e0ef4-f539-47cf-b0b2-646f858ab63d.jpg" alt="Banner" />
