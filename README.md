@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Fakhrul Islam</h1>
 <h3 align="center">Competitive Programmer and MERN Stack Developer</h3>
-<h4 align="justify">Dynamic software developer specializing in the MERN stack, adept at creating responsive and user-friendly websites. Passionate about problem solving, continuous learning, and leveraging the latest JavaScript frameworks to deliver innovative solutions. Committed to producing high-quality code and collaborating effectively within teams to achieve project objectives.</h4>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48804254/213803507-0b3e0ef4-f539-47cf-b0b2-646f858ab63d.jpg" alt="Banner" />
+  <img src="https://i.ibb.co/2Zd7HBs/work.gif" alt="Banner" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazim5032&label=Profile%20views&color=0e75b6&style=flat" alt="tazim5032" /> </p>
@@ -14,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/tazim5032" target="blank"><img src="https://img.shields.io/twitter/follow/tazim5032?logo=twitter&style=for-the-badge" alt="tazim5032" /></a> </p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">
+<p align="justify">
 I am Mohammad Fakhrul Islam, a competitive programmer and a dedicated MERN Stack Developer. My expertise lies in creating dynamic, responsive, and user-friendly web applications. With a strong passion for problem-solving and continuous learning, I am always eager to explore and implement the latest technologies and frameworks. I pride myself on writing clean, efficient code and enjoy collaborating with teams to achieve common goals. My commitment to quality and innovation drives me to deliver exceptional solutions that meet and exceed project expectations.
 </p>
 
@@ -48,10 +47,10 @@ I am Mohammad Fakhrul Islam, a competitive programmer and a dedicated MERN Stack
 
 <h3 align="left">Current Activities:</h3>
 <p align="left">
-- 🌱 **Currently learning:** Advanced JavaScript frameworks, cloud computing, and DevOps practices.
-- 💼 **Working on:** A personal project using the MERN stack to create a dynamic web application.
-- 🎯 **Goals for 2024:** Enhance my problem-solving skills, contribute to open-source projects, and collaborate with like-minded developers.
-- 🚀 **Fun fact:** I love solving complex algorithms and participating in coding competitions to keep my skills sharp.
+- 🌱 Currently learning: Advanced JavaScript frameworks, problem solving.
+- 💼 Working on: A personal project using the MERN stack to create a dynamic web application.
+- 🎯 Goals for 2024: Enhance my problem-solving skills, contribute to open-source projects, and collaborate with like-minded developers.
+- 🚀 Fun fact: I love solving complex algorithms and participating in coding competitions to keep my skills sharp.
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
