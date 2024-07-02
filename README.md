@@ -60,11 +60,12 @@ I am Mohammad Fakhrul Islam, a competitive programmer and a dedicated MERN Stack
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tazim5032&show_icons=true&locale=en" alt="tazim5032" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazim5032&" alt="tazim5032" /></p>
 
-<h3 align="left">My Contributions:</h3>
+<h3 align="left">GitHub Contributions:</h3>
 <p align="left">
   <a href="https://github.com/tazim5032">
-    <img src="https://github-contribution-graph.ez4o.com?username=tazim5032&theme=react-dark" alt="GitHub Contribution Graph">
+    <img src="https://github-readme-stats.vercel.app/api?username=tazim5032&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </a>
 </p>
+
 
 
