@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fakhrul Islam</h1>
-<h3 align="center">Competitive Programmer and MERN Stack Developer</h3>
+<h3 align="center">Competitive Programmer and Software Developer</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/2Zd7HBs/work.gif" alt="Banner" />
