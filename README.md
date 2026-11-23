@@ -1,101 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mohammad Fakhrul Islam</h1>
-<h3 align="center">Competitive Programmer and Software Developer</h3>
+<h1 align="center">Mohammad Fakhrul Islam</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/2Zd7HBs/work.gif" alt="Banner" />
+  <b>Software Engineer · Engineering Lead · Competitive Programmer</b><br/>
+  Full-stack web apps with React, TypeScript and Node · Real-time 3D with Unreal Engine Pixel Streaming · AI evaluation
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tazim5032&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <a href="https://tazim-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tazim--dev.netlify.app-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-fakhrul-islam-tazim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mfittazim22@gmail.com"><img src="https://img.shields.io/badge/Email-mfittazim22%40gmail.com-3f3f46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://tazim-dev.netlify.app/Mohammad_Fakhrul_Islam_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-52525b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tazim5032" alt="Trophies" />
-  </a> 
+---
+
+### 👋 About me
+
+- 🧑‍💻 I design, build and maintain **full-stack web applications**, from typed APIs to polished React interfaces.
+- 👥 I **lead an engineering team of 8**, working with 10+ international clients to keep delivery on track and quality high.
+- 🎮 I work with **Unreal Engine and Pixel Streaming**, delivering real-time 3D experiences to any browser.
+- 🤖 Previously **trained and evaluated AI models**, rating LLM responses for accuracy and instruction-following.
+- 🏆 **1,500+ problems** solved and **100+ contests** on Codeforces, LeetCode and HackerRank.
+- 🎓 B.Sc. in Computer Science & Engineering, **RUET**.
+
+### 🚀 Featured projects
+
+| Project | What it does | Built with | Links |
+|---|---|---|---|
+| 🚗 **[Majestic Motors](https://github.com/tazim5032/majestic-motors)** | Online car shop: inventory search and filters, stock-checked checkout, simulated SurjoPay payments, order tracking, admin dashboard with revenue charts | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-majestic-motors.netlify.app) · [API](https://github.com/tazim5032/majestic-motors-api) |
+| ✅ **[Micro Task](https://github.com/tazim5032/micro-task)** | Earning platform with worker, creator and admin roles: coin escrow, submission reviews, coin purchases, mobile-wallet withdrawals, notifications | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-micro-task.netlify.app) · [API](https://github.com/tazim5032/micro-task-api) |
+| 🎓 **[EduFlow](https://github.com/tazim5032/eduflow)** | Group-study platform: create assignments, submit work, peer-grade with marks and feedback, PDF preview, dark mode | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-eduflow.netlify.app) · [API](https://github.com/tazim5032/eduflow-api) |
+| 🌐 **[Portfolio](https://github.com/tazim5032/portfolio)** | Personal site with projects, blog, résumé and an open-roles board | HTML · CSS · JavaScript · Netlify | [Live site](https://tazim-dev.netlify.app) |
+
+> Every live demo runs fully in the browser, with one-click demo logins. Try the customer, creator and admin views.
+
+### 🛠️ Tech stack
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+
+**Backend & data**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
+
+**Real-time 3D & tools**<br/>
+<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Pixel_Streaming-27272A?style=flat-square&logo=webrtc&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+### 🏆 Competitive programming
+
+<a href="https://codeforces.com/profile/tazim"><img src="https://img.shields.io/badge/Codeforces-tazim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://leetcode.com/u/tazim220/"><img src="https://img.shields.io/badge/LeetCode-tazim220-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/mfittazim22"><img src="https://img.shields.io/badge/HackerRank-mfittazim22-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+
+1,500+ problems solved across online judges and 100+ online and onsite contests, which shaped how I debug, test edge cases and reason about performance.
+
+### ✍️ Recent writing
+
+- [Pixel Streaming explained: running Unreal Engine in the browser](https://tazim-dev.netlify.app/post.html?slug=pixel-streaming-explained)
+- [What I learned rating AI responses](https://tazim-dev.netlify.app/post.html?slug=lessons-from-rating-ai-responses)
+- [From competitive programmer to engineering manager](https://tazim-dev.netlify.app/post.html?slug=from-competitive-programmer-to-manager)
+- [More on the blog →](https://tazim-dev.netlify.app/blog.html)
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tazim5032&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tazim5032&label=Profile%20views&color=18181b&style=flat" alt="Profile views"/>
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/tazim5032" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tazim5032?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
-<h3 align="left">About Me:</h3>
-<p align="justify">
-  I am Mohammad Fakhrul Islam, a competitive programmer and a dedicated MERN Stack Developer. My expertise lies in creating dynamic, responsive, and user-friendly web applications. With a strong passion for problem-solving and continuous learning, I am always eager to explore and implement the latest technologies and frameworks. I pride myself on writing clean, efficient code and enjoy collaborating with teams to achieve common goals. My commitment to quality and innovation drives me to deliver exceptional solutions that meet and exceed project expectations.
-</p>
-
-- 🌱 Currently working on enhancing my skills in advanced JavaScript frameworks and cloud computing technologies.
-- 📫 How to reach me: **[mfitttazim@gmail.com](mailto:mfitttazim@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/tazim5032" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-fakhrul-islam-tazim/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/tazimulislam.salam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mfi_tazim/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/tazim" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Familiar Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a> 
-</p>
-
-<h3 align="left">Current Activities:</h3>
-<p align="left">
-  - 🌱 Currently learning: Advanced JavaScript frameworks, problem-solving.
-  <br>
-  - 💼 Working on: A personal project using the MERN stack to create a dynamic web application.
-  <br>
-  - 🎯 Goals for 2024: Enhance my problem-solving skills, contribute to open-source projects, and collaborate with like-minded developers.
-  <br>
-  - 🚀 Fun fact: I love solving complex algorithms and participating in coding competitions to keep my skills sharp.
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tazim5032&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tazim5032&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazim5032" alt="GitHub Streak" /></p>
+<p align="center"><i>Open to software engineering, engineering leadership and AI evaluation roles. Let's build something great.</i></p>
