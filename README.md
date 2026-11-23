@@ -25,12 +25,14 @@
 
 ### 🚀 Featured projects
 
-| Project | What it does | Built with | Links |
-|---|---|---|---|
-| 🚗 **[Majestic Motors](https://github.com/tazim5032/majestic-motors)** | Online car shop: inventory search and filters, stock-checked checkout, simulated SurjoPay payments, order tracking, admin dashboard with revenue charts | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-majestic-motors.netlify.app) · [API](https://github.com/tazim5032/majestic-motors-api) |
-| ✅ **[Micro Task](https://github.com/tazim5032/micro-task)** | Earning platform with worker, creator and admin roles: coin escrow, submission reviews, coin purchases, mobile-wallet withdrawals, notifications | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-micro-task.netlify.app) · [API](https://github.com/tazim5032/micro-task-api) |
-| 🎓 **[EduFlow](https://github.com/tazim5032/eduflow)** | Group-study platform: create assignments, submit work, peer-grade with marks and feedback, PDF preview, dark mode | React · TypeScript · Tailwind · Express · Zod · JWT | [Live demo](https://tazim-eduflow.netlify.app) · [API](https://github.com/tazim5032/eduflow-api) |
-| 🌐 **[Portfolio](https://github.com/tazim5032/portfolio)** | Personal site with projects, blog, résumé and an open-roles board | HTML · CSS · JavaScript · Netlify | [Live site](https://tazim-dev.netlify.app) |
+| Project | What it does |
+|---|---|
+| 🚗 **[Majestic Motors](https://github.com/tazim5032/majestic-motors)**<br/><sub>[Live demo](https://tazim-majestic-motors.netlify.app) · [API](https://github.com/tazim5032/majestic-motors-api)</sub> | Online car shop: inventory search and filters, stock-checked checkout, simulated SurjoPay payments, order tracking, admin dashboard with revenue charts |
+| ✅ **[Micro Task](https://github.com/tazim5032/micro-task)**<br/><sub>[Live demo](https://tazim-micro-task.netlify.app) · [API](https://github.com/tazim5032/micro-task-api)</sub> | Earning platform with worker, creator and admin roles: coin escrow, submission reviews, coin purchases, mobile-wallet withdrawals, notifications |
+| 🎓 **[EduFlow](https://github.com/tazim5032/eduflow)**<br/><sub>[Live demo](https://tazim-eduflow.netlify.app) · [API](https://github.com/tazim5032/eduflow-api)</sub> | Group-study platform: create assignments, submit work, peer-grade with marks and feedback, PDF preview, dark mode |
+| 🌐 **[Portfolio](https://github.com/tazim5032/portfolio)**<br/><sub>[Live site](https://tazim-dev.netlify.app)</sub> | Personal site with projects, blog, résumé and an open-roles board (HTML, CSS, JavaScript on Netlify) |
+
+<sub>Full-stack projects: React · TypeScript · Tailwind CSS · Express · Zod · JWT</sub>
 
 > Every live demo runs fully in the browser, with one-click demo logins. Try the customer, creator and admin views.
 
