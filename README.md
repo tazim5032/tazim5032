@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tazim-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-tazim--dev.netlify.app-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://tazim5032.github.io"><img src="https://img.shields.io/badge/Portfolio-tazim5032.github.io-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mohammad-fakhrul-islam-tazim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mfittazim22@gmail.com"><img src="https://img.shields.io/badge/Email-mfittazim22%40gmail.com-3f3f46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://tazim-dev.netlify.app/Mohammad_Fakhrul_Islam_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-52525b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+  <a href="https://tazim5032.github.io/Mohammad_Fakhrul_Islam_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-52525b?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 | 🚗 **[Majestic Motors](https://github.com/tazim5032/majestic-motors)**<br/><sub>[Live demo](https://tazim-majestic-motors.netlify.app) · [API](https://github.com/tazim5032/majestic-motors-api)</sub> | Online car shop: inventory search and filters, stock-checked checkout, simulated SurjoPay payments, order tracking, admin dashboard with revenue charts |
 | ✅ **[Micro Task](https://github.com/tazim5032/micro-task)**<br/><sub>[Live demo](https://tazim-micro-task.netlify.app) · [API](https://github.com/tazim5032/micro-task-api)</sub> | Earning platform with worker, creator and admin roles: coin escrow, submission reviews, coin purchases, mobile-wallet withdrawals, notifications |
 | 🎓 **[EduFlow](https://github.com/tazim5032/eduflow)**<br/><sub>[Live demo](https://tazim-eduflow.netlify.app) · [API](https://github.com/tazim5032/eduflow-api)</sub> | Group-study platform: create assignments, submit work, peer-grade with marks and feedback, PDF preview, dark mode |
-| 🌐 **[Portfolio](https://github.com/tazim5032/portfolio)**<br/><sub>[Live site](https://tazim-dev.netlify.app)</sub> | Personal site with projects, blog, résumé and an open-roles board (HTML, CSS, JavaScript on Netlify) |
+| 🌐 **[Portfolio](https://github.com/tazim5032/tazim5032.github.io)**<br/><sub>[Live site](https://tazim5032.github.io)</sub> | Personal site with projects, blog, résumé and an open-roles board (HTML, CSS, JavaScript on GitHub Pages) |
 
 <sub>Full-stack projects: React · TypeScript · Tailwind CSS · Express · Zod · JWT</sub>
 
@@ -60,10 +60,10 @@
 
 ### ✍️ Recent writing
 
-- [Pixel Streaming explained: running Unreal Engine in the browser](https://tazim-dev.netlify.app/post.html?slug=pixel-streaming-explained)
-- [What I learned rating AI responses](https://tazim-dev.netlify.app/post.html?slug=lessons-from-rating-ai-responses)
-- [From competitive programmer to engineering manager](https://tazim-dev.netlify.app/post.html?slug=from-competitive-programmer-to-manager)
-- [More on the blog →](https://tazim-dev.netlify.app/blog.html)
+- [Pixel Streaming explained: running Unreal Engine in the browser](https://tazim5032.github.io/post.html?slug=pixel-streaming-explained)
+- [What I learned rating AI responses](https://tazim5032.github.io/post.html?slug=lessons-from-rating-ai-responses)
+- [From competitive programmer to engineering manager](https://tazim5032.github.io/post.html?slug=from-competitive-programmer-to-manager)
+- [More on the blog →](https://tazim5032.github.io/blog.html)
 
 ### 📈 Activity
 
